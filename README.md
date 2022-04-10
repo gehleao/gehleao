@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Geysa Leão
 - 👀 I’m interested in Work as a FrontEnd Dev.
-- 🌱 I’m currently learning HTML, JavaScript, CSS..
+- 🌱 I’m currently learning **HTML, JavaScript, CSS, React, TypeScript**..
 <div align="center">
   <a href="https://github.com/gehleao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
