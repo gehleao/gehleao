@@ -23,8 +23,7 @@
   <p><a href = "mailto:geysaleao28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
   <p><a href="https://www.linkedin.com/in/geysa-leão-1076371a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
  
-  ![Snake animation](https://github.com/gehleao/gehleao/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
 © 2022 GitHub, Inc.
 Terms
