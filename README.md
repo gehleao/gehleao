@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Geysa Leão
+- 👋 Hi, I’m Geysa Leão.
 - 👀 I’m interested in Work as a FrontEnd Dev.
 - 🌱 I’m currently learning **HTML, JavaScript, CSS, React, TypeScript**..
 <div align="center">
