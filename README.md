@@ -12,9 +12,9 @@
 
   ##
  
-  <p><a href="https://instagram.com/euysaleao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></p>
-  <p><a href="mailto:geysaleao28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
-  <p><a href="https://www.linkedin.com/in/geysa-leão-1076371a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
+  <p><a href="https://instagram.com/euysaleao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" </a></p>
+  <p><a href="mailto:geysaleao28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
+  <p><a href="https://www.linkedin.com/in/geysa-leão-1076371a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
  
 © 2022 GitHub, Inc.
 Terms
